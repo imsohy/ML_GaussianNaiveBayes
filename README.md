@@ -4,6 +4,11 @@
 
 본 과제의 목적은 펭귄 특징 데이터셋(penguins.csv)을 활용하여 Gaussian Naïve Bayesian Classifier를 설계하고 구현하는 것이다. 해당 데이터셋에는 Adelie, Chinstrap, Gentoo의 세 가지 Species label에 대해, 섬 위치, 부리 길이와 깊이, 날개 길이, 몸무게, 성별 등 총 6개의 feature가 제공된다. 구현된 분류기는 테스트 데이터의 feature 값을 입력 받아, 펭귄들이 어느 클래스에 속할지를 예측한다.
 
+## 의의
+
+python을 사용해서, Gaussian Naive Bayesian Classifer를 구현해, 펭귄 특징 데이터셋을 읽고 3가지 펭귄 종류를 예측하는 모델을 구현하였다. 
+수학적 배경에 대해 엄밀하게 조사하고, 수식적으로 정리해 보고서에 추가하였으며, 이에 기반하여 모델을 구축하였다.
+
 ## dataset
 
 https://www.kaggle.com/code/parulpandey/penguin-dataset-the-new-iris
